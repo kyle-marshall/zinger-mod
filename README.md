@@ -28,5 +28,6 @@ This final note is displayed on the side of the Zinger while it is not off.
 
 - the earliest documented zinger prototype: https://www.youtube.com/watch?v=MN-WloAfhZ0
 - more sounds from the zinger: https://www.youtube.com/watch?v=Uv1JgwYEVWM
+- the zinger hooked up to some counters: https://youtu.be/jBW8Qqx2rUs
 
 Keep on zinging
