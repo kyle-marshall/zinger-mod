@@ -8,12 +8,12 @@ Unlike the Singer it it quite wide and has 9 input pins. 8 of these are used to 
 Pins: E D0 D1 D2 D3 D4 D5 D6 D7
 - E: The lonely pin to the side is the enable pin. Activating this pin makes the zinger zing.
 - DX: The rest of the pins shift the note up by a certain number of note intervals or "steps". Starting from the pin closest to enable...
-  D0: 2**-2 = 0.25 steps
-  D1: 2**-1 = 0.5 steps
-  D2: 2**0 = 1 step
-  D3: 2**1 = 2 steps
-  ...
-  D7: 2**5 = 32 steps
+  - D0: 2**-2 = 0.25 steps
+  - D1: 2**-1 = 0.5 steps
+  - D2: 2**0 = 1 step
+  - D3: 2**1 = 2 steps
+  - ...
+  - D7: 2**5 = 32 steps
 
 You can configure the base note by choosing a note in the Edit Component dialog ('X').
 The final note is base note + steps as determined by the inputs.
