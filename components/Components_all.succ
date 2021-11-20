@@ -1,0 +1,32 @@
+Zinger:
+    column: "Output"
+    category: "Music"
+    prefab:
+        blocks:
+            -
+                scale: (6, 1, 1)
+                position: (0, 0, 0)
+                color: 286e58
+        inputs:
+            -
+                position: (-2.5, 1, 0)
+            -
+                position: (-1, 1, 0)
+            -
+                position: (-0.5, 1, 0)
+            -
+                position: (0, 1, 0)
+            -
+                position: (0.5, 1, 0)
+            -
+                position: (1.0, 1, 0)
+            -
+                position: (1.5, 1, 0)
+            -
+                position: (2.0, 1, 0)
+            -
+                position: (2.5, 1, 0)
+        outputs:
+    placingRules:
+        gridPlacingDimensions: (6, 2)
+    clientCode: ZingerMod.Client.Zinger
