@@ -1,7 +1,8 @@
 # zinger-mod
 
-This Logic World mod adds a Zinger. It's like the Singer, and even found in the same component category.
-Unlike the Singer it is quite wide and has 9 input pins. 8 of these are used to select the note, and it can even hit some in-between notes (see below).
+This Logic World mod adds in the Zinger. It's like the Singer, and even found within the same component category.
+
+Unlike the Singer, the Zinger is quite wide with 9 input pins. 8 of these are used to select the note, and it can even hit some in-between notes (see below).
 
 ## THE DATA SHEET
 
