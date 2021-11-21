@@ -113,6 +113,10 @@ namespace ZingerMod.Client {
                     ? DEFAULT_INSTRUMENT
                     : desiredInstrumentId;
             }
+
+            if (TextMesh == null || SoundPlayer == null) {
+                return;
+            }
             QueueFrameUpdate();
         }
 
